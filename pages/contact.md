@@ -8,11 +8,8 @@ teaser: "Get in touch with me?"
 permalink: "/contact/"
 ---
 
-### Instagram:
-weslinln 
+### Instagram: [weslin.co.uk](https://www.instagram.com/weslin.co.uk/)
 
-### Twitter:
-MeetMyMetre 
+### Twitter: [MeetMyMetre](https://twitter.com/MeetMyMetre)
 
-### Email:
-weslinln@outlook.com
+### Email: weslinln@outlook.com
