@@ -3,8 +3,8 @@ layout: page
 show_meta: false
 title: "English Law"
 subheadline: "English law posts"
-header: no
-#    image_fullwidth: "header_unsplash_5.jpg"
+header:
+  image_fullwidth: gallery-example-7.jpg
 permalink: "/english_law/"
 ---
 <ul>

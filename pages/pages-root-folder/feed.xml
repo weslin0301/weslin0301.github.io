@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: null
 title: "RSS Feed"
 permalink: /feed.xml
@@ -22,4 +22,4 @@ permalink: /feed.xml
 			</item>
 		{% endfor %}
 	</channel>
-</rss>
+</rss> -->

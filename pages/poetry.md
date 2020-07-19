@@ -3,8 +3,8 @@ layout: page
 show_meta: false
 title: "Poetry"
 subheadline: "Poetry posts"
-header: no
-#    image_fullwidth: "header_unsplash_5.jpg"
+header:
+  image_fullwidth: gallery-example-7.jpg
 permalink: "/poetry/"
 ---
 <ul>

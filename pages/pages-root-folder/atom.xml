@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: null
 title: "Atom Feed"
 permalink: /atom.xml
@@ -71,4 +71,4 @@ permalink: /atom.xml
 			<published>{{ post.date | date_to_xmlschema }}</published>
 		</entry>
 	{% endfor %}
-</feed>
+</feed> -->

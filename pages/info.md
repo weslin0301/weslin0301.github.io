@@ -1,17 +1,16 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Personal Blog"
+# teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+  image_fullwidth: gallery-example-7.jpg
 ---
-...and learn at the same time.
+### Evy Liu 
+I am a paralegal based in Central London. 
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
-
+<!-- 
 ## Features
 
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
@@ -58,4 +57,4 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [17]: #
  [18]: #
  [19]: #
- [20]: #
+ [20]: # -->
