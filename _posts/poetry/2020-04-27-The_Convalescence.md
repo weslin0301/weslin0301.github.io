@@ -24,6 +24,8 @@ Beware the kit kat bars, and shun <br/>
 The fallacious low-fat snack! <br/>
 <br/>
 
+(I am too lazy to finish the parody of Jabberwocky by Lewis Carroll.)
+
 ## Other poetry posts
 {: .t60 }
 {% include list-posts tag='poetry' %}
