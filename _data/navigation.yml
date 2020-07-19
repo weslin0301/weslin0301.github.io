@@ -63,6 +63,10 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "English Law"
+    url: "/english_law/"
+  - title: "Poetry"
+    url: "/poetry/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
