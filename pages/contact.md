@@ -11,4 +11,4 @@ permalink: "/contact/"
 
 #### Instagram: [weslin.co.uk](https://www.instagram.com/weslin.co.uk/)<dr/>
 #### Twitter: [MeetMyMetre](https://twitter.com/MeetMyMetre)<dr/>
-#### Email: [weslinln@outlook.com](weslinln@outlook.com)<dr/>
+#### Email: weslinln@outlook.com<dr/>

@@ -8,7 +8,7 @@ header:
   image_fullwidth: gallery-example-7.jpg
 ---
 ### Evy Liu 
-I am a paralegal based in Central London. 
+I am a paralegal based in central London. 
 
 <!-- 
 ## Features

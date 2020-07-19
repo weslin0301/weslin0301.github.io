@@ -11,10 +11,10 @@ tags:
     - "book"
 categories:
     - "poetry"
-# image:
-#     thumb: gallery-example-3-thumb.jpg
-#     title: gallery-example-3.jpg
-#     caption_url: http://unsplash.com
+image:
+    thumb: book1-thumb.jpg
+    # title: book1.jpg
+    # caption_url: http://unsplash.com
 ---
 
 Miss Flora M'Flimsey, of Madison Square,<br/>
@@ -351,6 +351,8 @@ Must be clothed for the life and the service above<br/>
 With purity, truth, faith, meekness, and love;<br/>
 Oh, daughters of Earth! foolish virgins, beware!<br/>
 Lest in that upper realm you have nothing to wear!<br/>
+
+![picture of the book](/images/book1.jpg)
 
 ## Other poetry posts
 {: .t60 }
