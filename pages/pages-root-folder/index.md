@@ -8,20 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: gallery-example-7.jpg
 widget1:
-  title: "The site is being built."
+  title: "News: The site is still being built."
   url: 'https://weslin.co.uk/blog/'
   # image: widget-1-302x182.jpg
-  text: 'I am updating the content for the website constantly.'
+  text: 'But I am regularly updating the content.'
 widget2:
-  # title: "2"
-  # url: 'http://phlow.github.io/feeling-responsive/info/'
-  # text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "Judging by the Covers"
+  url: 'https://weslin.co.uk/'
+  text: 'Coming soon... A gallery of my-new-favourite books and blogs that I find inspiring.' 
+  # image: book5.jpg
   # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  # title: "3"
-  # url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Why -v- Why not"
+  url: 'https://weslin.co.uk/blog/'
   # image: widget-github-303x182.jpg
-  # text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'Coming soon... Trendy lifestyle discoveries'
 #
 # Use the call for action to show a button on the frontpage
 #
