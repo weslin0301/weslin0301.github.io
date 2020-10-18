@@ -5,7 +5,7 @@ title:  "The Convalescence"
 teaser: "(a parody)"
 breadcrumb: true
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 tags:
     - "poetry"
     - "my_writing"

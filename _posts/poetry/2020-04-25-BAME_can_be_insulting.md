@@ -5,7 +5,7 @@ title:  "BAME – in response to a news article of 2018"
 teaser: "Equality and merits should not be engineered to contradict each other."
 breadcrumb: true
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 tags:
     - "poetry"
     - "my_writing"

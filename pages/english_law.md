@@ -4,7 +4,7 @@ show_meta: false
 title: "English Law"
 subheadline: "English law posts"
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 permalink: "/english_law/"
 ---
 <ul>

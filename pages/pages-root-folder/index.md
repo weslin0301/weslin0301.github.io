@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 widget1:
   title: "News: The site is still being built."
   url: 'https://weslin.co.uk/blog/'

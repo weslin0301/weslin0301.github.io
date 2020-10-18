@@ -5,7 +5,7 @@ title:  "Nothing to Wear"
 teaser: "AN EPISODE OF CITY LIFE by William Allen Butler (1825-1902)"
 breadcrumb: true
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 tags:
     - "poetry"
     - "book"

@@ -5,7 +5,7 @@ title:  "A Fallen Druid"
 teaser: "A poem about disappointment..."
 breadcrumb: true
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 tags:
     - "poetry"
     - "my_writing"

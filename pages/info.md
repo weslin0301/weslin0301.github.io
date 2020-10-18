@@ -5,7 +5,7 @@ subheadline: "Personal Blog"
 # teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/info/"
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 ---
 ### Evy Liu 
 I am a paralegal based in central London. 

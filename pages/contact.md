@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 meta_title: "Contact me"
 subheadline: "Contact"
 teaser: "Get in touch with me?"

@@ -4,7 +4,7 @@ show_meta: false
 title: "Poetry"
 subheadline: "Poetry posts"
 header:
-  image_fullwidth: gallery-example-7.jpg
+  image_fullwidth: pier.jpg
 permalink: "/poetry/"
 ---
 <ul>
